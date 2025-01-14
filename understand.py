@@ -1,2 +1,3 @@
 x = "dog"
-print (x)
+y = "cat"
+print (y)
